@@ -55,9 +55,10 @@ Programação do mês:
 
 ## Permanentes
 
-### [DevDojo](https://www.youtube.com/c/DevDojoBrasil/featured)
+### [DevDojo](https://www.youtube.com/c/DevDojoBrasil/featured) 
 
-Canal com um ótimo conteúdo gratuito! A Maratona Java oferecida pelo canal é me agradou muito, e há também outras opções de curso no canal, como Spring Boot Essentials, Lógica de Programação e Spring WebFlux Essentials. Há ainda a possibilidade de patrocinar o canal e garantir conteúdo adiantado além de outros benefícios.
+Canal com um ótimo conteúdo no Youtube! A Maratona Java oferecida pelo canal me agradou muito e você encontra também outras opções de curso, como Spring Boot Essentials, Lógica de Programação e Spring WebFlux Essentials. Há ainda a possibilidade de patrocinar o canal e garantir conteúdo adiantado além de outros benefícios.
+Emite certificado? SIM, para pagantes
 
 ### [Senai](https://loja.mundosenai.com.br/)
 
