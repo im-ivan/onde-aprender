@@ -2,6 +2,15 @@
 
 Repositório que reúne links para cursos gratuitos, palestras, e outras fontes de aprendizado.
 
+## Treinamentos
+### [Ambev Start-tech](https://ambevtech.com.br/start-tech/)
+
+Treinamento em React e QA, voltado exclusivamente para mulheres (cis e trans), negros e pardos. Inscrições até o dia 16 de junho e não é necessário experiência.
+
+### [Fly - Meninas in tech](https://www.flyeducacao.org/inscricao-meninas-in-tech)
+
+Capacitação sobre programação combinada com capacitação socioemocional.Voltado para meninas e mulheres estudantes que queiram aprender sobre desenvolvimento web, com idade mínima de 16 anos. Visitem o link para maiores informações.
+
 ## Renovados periodicamente
 
 Última atualização 06.jun.2021
